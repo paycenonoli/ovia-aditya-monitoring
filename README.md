@@ -1,4 +1,4 @@
-![Alt Text](python-cheat-4.jpg)
+![Alt Text](ovia.jpg.png)
 
 ULTIMATE DEVOPS MONITORING PROJECT
 Tools needed:
