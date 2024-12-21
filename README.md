@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/paycenonoli/ovia-aditya-monitoring/blob/main/ovia-monitoring-jpg.docx)
+
 
 ULTIMATE DEVOPS MONITORING PROJECT
 Tools needed:
