@@ -61,6 +61,7 @@ Now, in prometheus we still do not see any rules, so we restart our prometheus:
 pgrep prometheus -> gives you the process ID, then kill it and start prometheus once more:
 
 kill 3421
+
 ./prometheus &
 
 Re-access and you see the rules populated.
