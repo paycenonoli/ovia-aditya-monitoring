@@ -1,3 +1,4 @@
+![Alt Text](ovia-monitoring-jpg.docx)
 ULTIMATE DEVOPS MONITORING PROJECT
 Tools needed:
 -	Prometheus
